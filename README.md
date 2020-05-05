@@ -11,7 +11,7 @@
     - 속도가 빠르다
     -자료구조 안 값들이 정렬되어있어야 한다
     - 시간복잡도 O(log n)
-    - <a href="fdfdfd"> 예제</a>
+    - <a href="https://github.com/chaehyeonkim/algorithm_study/tree/master/Bianry%20Search"> 예제</a>
 
 
 ### 버블 정렬 (Bubble sort)
